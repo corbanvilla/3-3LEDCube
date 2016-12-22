@@ -30,4 +30,5 @@ The first step is to make a mold with any old cardboard you have laying around. 
 
 ##Step 2
 Now bend all the short legs (cathodes), and place them in the mold so they're all touching each other, like shown in the picture:
-![img2](/images/img2.jpg "")
+
+![img2](/images/img2.png "")
