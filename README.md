@@ -7,12 +7,12 @@
 - [1x USB to USB-B] (https://www.monoprice.com/product?p_id=5436)
 - [1x Scotch Tape Pad] (https://www.amazon.com/Scotch-Permanent-Mounting-Tape-Inches/dp/B00347A8GC/ref=sr_1_1?ie=UTF8&qid=1482383745&sr=8-1&keywords=scotch+tape+foam)
 - [3x ~1in Black Wires] (https://www.amazon.com/Solderless-Flexible-Breadboard-Jumper-Wires/dp/B005TZJ0AM/ref=sr_1_3?ie=UTF8&qid=1482383803&sr=8-3&keywords=breadboard+jumper+wires)
-- [3x 2N2222 Transistors (Black)] https://www.amazon.com/2N2222-Plastic-Encapsulate-Power-Transistors-600mA/dp/B00R1M3DA4/ref=sr_1_1?ie=UTF8&qid=1482383860&sr=8-1&keywords=2N2222
+- [3x 2N2222 Transistors (Black)] (https://www.amazon.com/2N2222-Plastic-Encapsulate-Power-Transistors-600mA/dp/B00R1M3DA4/ref=sr_1_1?ie=UTF8&qid=1482383860&sr=8-1&keywords=2N2222)
 - [3x ~3-5in Wires] (https://www.amazon.com/Solderless-Flexible-Breadboard-Jumper-Wires/dp/B005TZJ0AM/ref=sr_1_3?ie=UTF8&qid=1482383803&sr=8-3&keywords=breadboard+jumper+wires)
 - [9x ~3in Long Wires] (https://www.amazon.com/Solderless-Flexible-Breadboard-Jumper-Wires/dp/B005TZJ0AM/ref=sr_1_3?ie=UTF8&qid=1482383803&sr=8-3&keywords=breadboard+jumper+wires)
-- [9x 100 Ohm Resistors] https://www.amazon.com/E-Projects-100EP514100R-100-Resistors-Pack/dp/B00AVSDYFO/ref=sr_1_2?ie=UTF8&qid=1467169375&sr=8-2&keywords=100+ohm+resistor
+- [9x 100 Ohm Resistors] (https://www.amazon.com/E-Projects-100EP514100R-100-Resistors-Pack/dp/B00AVSDYFO/ref=sr_1_2?ie=UTF8&qid=1467169375&sr=8-2&keywords=100+ohm+resistor)
 - [9x ~1-3in Wires] (https://www.amazon.com/Solderless-Flexible-Breadboard-Jumper-Wires/dp/B005TZJ0AM/ref=sr_1_3?ie=UTF8&qid=1482383803&sr=8-3&keywords=breadboard+jumper+wires)
-- [27x LEDs] https://www.adafruit.com/?q=led%203%20mm&p=1&gclid=CjwKEAiA7ejCBRDlp8uF6ezPnjoSJAAPED7MpuYy9beeJjQQUNoKLtj7MatFf8T-pO-tJkxHAekNWhoClwPw_wcB
+- [27x LEDs] (https://www.adafruit.com/?q=led%203%20mm&p=1&gclid=CjwKEAiA7ejCBRDlp8uF6ezPnjoSJAAPED7MpuYy9beeJjQQUNoKLtj7MatFf8T-pO-tJkxHAekNWhoClwPw_wcB)
 
 ##Tools
 - Tools Required:
