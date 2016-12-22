@@ -25,4 +25,9 @@
 
 ##Step 1
 The first step is to make a mold with any old cardboard you have laying around. This will help you layout your leds and keep them aligned as they should be. Just get a pencil, and poke 9 holes in your cardboard as big as your led. They should be a bit less than the length of the smallest leg (of your led) apart. Like so:
+
 ![img1](/images/img1.png "")
+
+##Step 2
+Now bend all the short legs (cathodes), and place them in the mold so they're all touching each other, like shown in the picture:
+![img2](/images/img2.jpg "")
