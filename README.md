@@ -36,7 +36,7 @@ Now bend all the short legs (cathodes), and place them in the mold so they're al
 Solder all the legs together but make sure they don't touch the anode (longer leg). If you have tweezers, you can use them to hold the legs together while you solder. They'll make your life much easier! :-)
 Do this process 3 times for a total of 3 3x3 led sheets
 
-![img3](/images/img4.png "")
+![img3](/images/img3.png "")
 
 ##Step 3
 Place a sheet of leds upside down in the mold, then start soldering the anodes together (the long legs). Sometimes bending the anodes slightly can help when soldering them together. Do this for the final layer so you will have a 3x3x3 led cube.
