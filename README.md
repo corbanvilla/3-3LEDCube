@@ -7,7 +7,6 @@
 - 1x USB to USB-B
 - 1x Scotch Tape Pad
 - 3x ~1in Black Wires
-- 3x 20k Ohm Resistors
 - 3x 2N2222 Transistors (Black)
 - 3x 3x3 LED Sheets
 - 3x ~3-5in Wires
@@ -44,3 +43,12 @@ Place a sheet of leds upside down in the mold, then start soldering the anodes t
 ![img4](/images/img4.png "")
 
 ##Step 4
+Start wiring up the led cube to the breadboard and arduino following the schematic below. I like lining up all the resistors and transistors first. Place them on a breadboard, as shown in the schematic. I like briding them over the gap, with jumper cables on both sides. Then once all the components are in place, start soldering jumper cables to the bottom anodes of the LEDs, then to the breadboard, as shown. Then wire up the resistors back to the arduino, then move on to the transistors. 
+Note: The resistors aren't polarized (it doesn't matter which direction they're going) but Transistors are. When doing the transistors (they're the black thing) make sure that the flat side is facing where N is on the schematic, otherwise it won't work. 
+
+![img5](/images/img5.png "")
+
+##Step 5
+Now that all the wiring is complete, you can start on coding it. Go to https://www.arduino.cc/en/Main/Software and download the Arduino IDE for your OS. Install it, and open it up. Go ahead and plug in your arduino with a USB to USB-B cord. Open up the Arduino IDE and go to Tools > Board > Arduino/Genuino Uno to make sure that it knows what Arduino board its programming. Then, take the code from the /ledcube.ino on this website and paste it into the IDE. At the top right, click Upload. 
+
+###Thats it! You've successfully assembled a 3x3x3 Arduino LED Cube! Congratulations! :-)
