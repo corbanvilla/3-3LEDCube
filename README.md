@@ -1,4 +1,4 @@
-# 3-3LEDCube Instructions
+# 3x3x3 LEDCube Instructions
 
 ##What you need
 - 1x Arduino Board
