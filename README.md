@@ -32,3 +32,6 @@ The first step is to make a mold with any old cardboard you have laying around. 
 Now bend all the short legs (cathodes), and place them in the mold so they're all touching each other, like shown in the picture:
 
 ![img2](/images/img2.png "")
+
+Solder all the legs together but make sure they don't touch the anode (longer leg). If you have tweezers, you can use them to hold together the legs while you solder. They'll make your life much easier! :-)
+
