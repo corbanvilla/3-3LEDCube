@@ -44,6 +44,7 @@ Place a sheet of leds upside down in the mold, then start soldering the anodes t
 
 ##Step 4
 Start wiring up the led cube to the breadboard and arduino following the schematic below. I like lining up all the resistors and transistors first. Place them on a breadboard, as shown in the schematic. I like briding them over the gap, with jumper cables on both sides. Then once all the components are in place, start soldering jumper cables to the bottom anodes of the LEDs, then to the breadboard, as shown. Then wire up the resistors back to the arduino, then move on to the transistors. 
+
 Note: The resistors aren't polarized (it doesn't matter which direction they're going) but Transistors are. When doing the transistors (they're the black thing) make sure that the flat side is facing where N is on the schematic, otherwise it won't work. Finally use the sticky pad to stick the arduino to the project board and sticky underneath the breadboard to connect it to the project board.
 
 ![img5](/images/img5.png "")
