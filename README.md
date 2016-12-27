@@ -21,7 +21,7 @@
 - Tweezers / Pliers (Optional but recommended)
 
 ##Step 1
-The first step is to make a mold with any old cardboard you have laying around. This will help you layout your leds and keep them aligned as they should be. Just get a pencil, and poke 9 holes in your cardboard as big as your led. They should be a bit less than the length of the smallest leg (of your led) apart. Like so:
+The first step is to make a mold with any old cardboard you have laying around. This will help you layout your LEDs and keep them aligned as they should be. Just get a pencil, and poke 9 holes in your cardboard as big as the top of your LED. They should be a bit less than the length of the smallest leg (of your led) apart in a 3x3 array. Like so:
 
 ![img1](/images/img1.png "")
 
@@ -31,17 +31,17 @@ Now bend all the short legs (cathodes), and place them in the mold so they're al
 ![img2](/images/img2.png "")
 
 Solder all the legs together but make sure they don't touch the anode (longer leg). If you have tweezers, you can use them to hold the legs together while you solder. They'll make your life much easier! :-)
-Do this process 3 times for a total of 3 3x3 led sheets
+Do this process 3 times for a total of 3 3x3 LED sheets
 
 ![img3](/images/img3.png "")
 
 ##Step 3
-Place a sheet of leds upside down in the mold, then start soldering the anodes together (the long legs). Sometimes bending the anodes slightly can help when soldering them together. Do this for the final layer so you will have a 3x3x3 led cube.
+Place a sheet of LEDs upside down in the mold, then start soldering the anodes together (the long legs) vertically. It helps if you have someone hold the sheet in place while you solder the legs. Sometimes bending the anodes slightly can also help when soldering them together. Do this for the final layer as well so you will have a 3x3x3 LED cube.
 
 ![img4](/images/img4.png "")
 
 ##Step 4
-Start wiring up the led cube to the breadboard and arduino following the schematic below. I like lining up all the resistors and transistors first. Place them on a breadboard, as shown in the schematic. I like briding them over the gap, with jumper cables on both sides. Then once all the components are in place, start soldering jumper cables to the bottom anodes of the LEDs, then to the breadboard, as shown. Then wire up the resistors back to the arduino, then move on to the transistors. Finally use the sticky pad to stick the arduino to the project board and sticky underneath the breadboard to connect it to the project board.
+Start wiring up the LED cube to the breadboard and arduino following the schematic below. I like lining up all the resistors and transistors first. Place them on a breadboard, as shown in the schematic. I like briding them over the gap, with jumper cables on both sides, as shown in the picture below: Then once all the components are in place, start soldering jumper cables to the bottom anodes of the LEDs, then to the breadboard, as shown. Then wire up the resistors back to the arduino, then move on to the transistors. Finally use the sticky pad to stick the arduino to the project board and sticky underneath the breadboard to connect it to the project board.
 
 Note: The resistors aren't polarized (it doesn't matter which direction they're going) but transistors are. When doing the transistors (they're the black thing) make sure that the flat side is facing where N is on the schematic, otherwise it won't work. 
 
@@ -55,4 +55,4 @@ Now that all the wiring is complete, you can start on coding it. Go to https://w
 
 
 ##Note
-[Some pictures used in these instructions are from this website.](http://www.instructables.com/id/Making-an-Arduino-3X3-LED-Cube-in-Less-Than-30-Min/?ALLSTEPS)
+[With much thanks to yhtomitsy, original concept and some images are found on this website.](http://www.instructables.com/id/Making-an-Arduino-3X3-LED-Cube-in-Less-Than-30-Min/?ALLSTEPS)
