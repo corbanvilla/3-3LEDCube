@@ -23,43 +23,43 @@
 ##Step 1 - Molding
 The first step is to make a mold with any cardboard scraps you have laying around. This will help you layout your LEDs and keep them aligned as they should be. Just get a pencil, and poke 9 holes in your cardboard as big as the top of your LED. They should be a bit less than the length of the smallest leg (of your led) apart, in a 3x3 array. Like so:
 
-[![Mold-Empty](/images/Crop-Small/Mold-Empty.png "")] ('/images/Crop-Large/Mold-Empty.png')
+[![Mold-Empty](/images/Crop-Small/Mold-Empty.png "")] (/images/Crop-Large/Mold-Empty.png)
 
 ##Step 2 - Layouts
 Now bend all the short legs (cathodes), and place them in the mold so they're all touching each other, as shown in the picture:
 
-[![Mold-Unsoldered](/images/Crop-Small/Mold-Unsoldered.png "")] ('/images/Crop-Large/Mold-Unsoldered.png')
+[![Mold-Unsoldered](/images/Crop-Small/Mold-Unsoldered.png "")] (/images/Crop-Large/Mold-Unsoldered.png)
 
 Solder all the legs together but make sure they don't touch the anode (longer leg). If you have tweezers, you can use them to hold the legs together while you solder. They'll make your life much easier! :-)
 Do this process 3 times for a total of 3 3x3 LED sheets
 
-[![Mold-Soldered](/images/Crop-Small/Mold-Soldered.png "")] ('/images/Crop-Large/Mold-Soldered.png')
+[![Mold-Soldered](/images/Crop-Small/Mold-Soldered.png "")] (/images/Crop-Large/Mold-Soldered.png)
 
 ##Step 3 - Stacking
 Place a sheet of LEDs upside down in the mold, then start soldering the anodes together (the long legs) vertically. It helps if you have someone hold the sheet in place while you solder the legs. Sometimes bending the anodes slightly can also help when soldering them together. Do this for the final layer as well so you will have a 3x3x3 LED cube.
 
-[![Soldering3x3x3](/images/Crop-Small/Soldering3x3x3.png "")] ('/images/Crop-Large/Soldering3x3x3.png')
+[![Soldering3x3x3](/images/Crop-Small/Soldering3x3x3.png "")] (/images/Crop-Large/Soldering3x3x3.png)
 
 ##Step 4 - Wiring
 Start wiring up the LED cube to the breadboard and arduino following the schematic below. 
 
-[![Schematic] (/images/Crop-Small/Schematic.png "")] ('/images/Crop-Large/Schematic.png')
+[![Schematic] (/images/Crop-Small/Schematic.png "")] (/images/Crop-Large/Schematic.png)
 
 I like lining up all the resistors and transistors first on the breadboard, as shown. I usually start by bridging the resistors over the gap, with jumper cables on both sides, then move on to the transistors, as shown below: 
 
-[![Breadboard] (/images/Crop-Small/Breadboard.png "")] ('/images/Crop-Large/Breadboard.png')
+[![Breadboard] (/images/Crop-Small/Breadboard.png "")] (/images/Crop-Large/Breadboard.png)
 
 Then once all the components are in place, start soldering jumper cables to the bottom anodes of the LEDs, and stick them into the breadboard, as shown. Solder up jumper cables to the 3 cathode rings of LED legs.
 
-[![Overview-Cube] (/images/Crop-Small/Overview-Cube.png "")] ('/images/Crop-Large/Overview-Cube.png')
+[![Overview-Cube] (/images/Crop-Small/Overview-Cube.png "")] (/images/Crop-Large/Overview-Cube.png)
 
 Then start wiring back to the Arduino:
 
-[![Arduino] (/images/Crop-Small/Arduino.png "")] ('/images/Crop-Large/Arduino.png')
+[![Arduino] (/images/Crop-Small/Arduino.png "")] (/images/Crop-Large/Arduino.png)
 
 Finally use the sticky pad to stick the arduino to the project board and sticky underneath the breadboard to connect it to the project board.
 
-[![Overview-Top] (/images/Crop-Small/Overview-Top.png "")] ('/images/Crop-Large/Overview-Top.png')
+[![Overview-Top] (/images/Crop-Small/Overview-Top.png "")] (/images/Crop-Large/Overview-Top.png)
 
 Note: The resistors aren't polarized (it doesn't matter which direction they're going) but transistors are. When doing the transistors (they're the black thing) make sure that the flat side is facing where N is on the schematic, otherwise it won't work. 
 
@@ -68,4 +68,4 @@ Now that all the wiring is complete, you can start on coding it. Go to https://w
 
 ###Thats it! You've successfully assembled a 3x3x3 Arduino LED Cube! Congratulations! :-)
 
-[![Overview-Side] (/images/Crop-Small/Overview-Side.png "")] ('/images/Crop-Large/Overview-Side.png')
+[![Overview-Side] (/images/Crop-Small/Overview-Side.png "")] (/images/Crop-Large/Overview-Side.png)
