@@ -23,7 +23,7 @@
 ##Step 1
 The first step is to make a mold with any old cardboard you have laying around. This will help you layout your LEDs and keep them aligned as they should be. Just get a pencil, and poke 9 holes in your cardboard as big as the top of your LED. They should be a bit less than the length of the smallest leg (of your led) apart in a 3x3 array. Like so:
 
-![img1](/images/img1.png "")
+![img1](/images/Crop-Small/Mold-Empty.png "")
 
 ##Step 2
 Now bend all the short legs (cathodes), and place them in the mold so they're all touching each other, like shown in the picture:
@@ -51,8 +51,3 @@ Note: The resistors aren't polarized (it doesn't matter which direction they're 
 Now that all the wiring is complete, you can start on coding it. Go to https://www.arduino.cc/en/Main/Software and download the Arduino IDE for your OS. Install it, and open it up. Go ahead and plug in your arduino with a USB to USB-B cord. Open up the Arduino IDE and go to Tools > Board > Arduino/Genuino Uno to make sure that it knows what Arduino board its programming. Then, take the code from the ledcube.ino on this website and paste it into the IDE. At the top right, click Upload. 
 
 ###Thats it! You've successfully assembled a 3x3x3 Arduino LED Cube! Congratulations! :-)
-
-
-
-##Note
-[With much thanks to yhtomitsy, original concept and some images are found on this website.](http://www.instructables.com/id/Making-an-Arduino-3X3-LED-Cube-in-Less-Than-30-Min/?ALLSTEPS)
